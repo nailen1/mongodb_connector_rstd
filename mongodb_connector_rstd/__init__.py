@@ -1,1 +1,2 @@
-from .connector import *
+from .macro import *
+from .capstone import *
